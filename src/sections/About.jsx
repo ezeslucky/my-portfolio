@@ -36,26 +36,12 @@ back-end technologies.
         <div className="col-span-1 xl:row-span-3">
           <div className="w-full  h-full border border-black-300 bg-black-200 rounded-lg sm:p-7 p-4 flex flex-col gap-5">
 
-            <div className=' flex flex-row container gap-3 row-span-1'>
-            <img src="assets/typescript.png" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/css.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/git.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/angular.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/html.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/javascript.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/mongodb.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/node.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
+           
+            <img src="assets/all.png" alt="grid-2" className="w-[25] sm:h-[273px] h-fit object-contain" />
+            
             
           
-            </div>
-            <div className=' flex flex-row gap-3'>
-            <img src="assets/boot.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/poge.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/tailwindcss.png" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/react.svg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/ne.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            <img src="assets/docker.jpg" alt="grid-2" className="w-[25] sm:h-[27px] h-fit object-contain" />
-            </div>
+         
 
             <div>
               <p className="text-xl font-semibold mb-2 text-white font-generalsans">Tech Stack</p>
